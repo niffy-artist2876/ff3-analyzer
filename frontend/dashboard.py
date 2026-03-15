@@ -243,3 +243,6 @@ elif(page == 'Portfolio Builder'):
         - It behaves more like a **{'large-cap' if portfolio_beta_smb < 0 else 'small-cap'}** portfolio (SMB: {portfolio_beta_smb:.2f})
         - Expected monthly alpha: **{portfolio_alpha*100:.2f}%** above what the factors explain
         """)
+
+st.markdown("---")
+st.markdown("<p style='text-align: center; color: #007a1f; font-family: Share Tech Mono, monospace; font-size: 0.8rem;'>Built by Shaurya</p>", unsafe_allow_html=True)
