@@ -83,7 +83,7 @@ data_fetcher.py → preprocessing.py → regression.py → visualize.py → dash
 
 ### Option 1 — Live Demo
 
-[Click here to view the dashboard](#) ← replace with your Streamlit deployment link
+[Click here to view the dashboard](https://ff3-analyzer.streamlit.app/)
 
 ### Option 2 — Run Locally
 
