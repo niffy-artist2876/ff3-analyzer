@@ -7,3 +7,5 @@ statsmodels>=0.13.0
 yfinance>=0.1.70
 requests>=2.26.0
 jupyter>=1.0.0
+seaborn
+statsmodels
